@@ -1,2 +1,1 @@
-# parallax
-It is parallax website
+# It is parallax website.
