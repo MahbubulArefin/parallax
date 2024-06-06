@@ -1,1 +1,1 @@
-# It is parallax website.
+# It is a parallax website.
